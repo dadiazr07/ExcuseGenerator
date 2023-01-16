@@ -34,3 +34,5 @@ function generateExcuse() {
 function GenExOnH2() {
   document.getElementById("ExcuseGenerated").innerHTML = generateExcuse();
 }
+
+// https://github.com/dadiazr07/ExcuseGenerator
